@@ -28,7 +28,7 @@
     </modules>
 
     <build>
-        <finalName>Power-Cloud-1</finalName>
+        <finalName>Drivershaab</finalName>
         <pluginManagement>
             <plugins>
                 <plugin>
