@@ -13,7 +13,7 @@
 <body>
   <h1>Welcome to DriverShaab Application</h1>
   <h1>
-    Join with us.
+    Ride with us.
   </h1>
 </body>
 </html>
