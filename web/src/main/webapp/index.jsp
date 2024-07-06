@@ -12,8 +12,8 @@
 </head>
 <body>
   <h1>Welcome to DriverShaab Application</h1>
-  <p>
+  <h1>
     Join with us.
-  </p>
+  </h1>
 </body>
 </html>
